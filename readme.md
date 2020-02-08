@@ -9,7 +9,7 @@ create controller  command
 - php artisan make:controller TestController --resource  //with all functions
 - php artisan make:controller TestController /. without functons
 
-## create model and table migration  
+## Create model and table migration  
 - student table create comand at datbase/migration/tablename
 - php artisan make:model Students -m
 
